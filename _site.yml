@@ -1,0 +1,24 @@
+name: "Bioética"
+output_dir: "."
+
+output:
+  html_document:
+    theme: "united"
+    toc: true
+    toc_float: true
+
+navbar:
+  title: "Bioética - Chaux"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Reporte"
+      href: reporte.html
+    - text: "Resultados"
+      menu:
+        - text: "Docentes"
+          href: Docentes.html
+        - text: "Alumnos"
+          href: Programas.html
+    - text: "Recursos"
+      href: recursos.html
