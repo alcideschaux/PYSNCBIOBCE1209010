@@ -523,8 +523,8 @@ plt.show()</code></pre>
 <div id="carrera" class="section level2">
 <h2>Carrera</h2>
 <pre class="python"><code>df[&#39;carrera&#39;].value_counts()</code></pre>
-<pre><code>## Odontología                    19
-## Fisioterapia y Kinesiología    19
+<pre><code>## Fisioterapia y Kinesiología    19
+## Odontología                    19
 ## Bioquímica                     18
 ## Medicina                       17
 ## Enfermería                     14
@@ -532,8 +532,8 @@ plt.show()</code></pre>
 ## Psicología                      6
 ## Name: carrera, dtype: int64</code></pre>
 <pre class="python"><code>df[&#39;carrera&#39;].value_counts(normalize=True).round(2)</code></pre>
-<pre><code>## Odontología                    0.18
-## Fisioterapia y Kinesiología    0.18
+<pre><code>## Fisioterapia y Kinesiología    0.18
+## Odontología                    0.18
 ## Bioquímica                     0.17
 ## Medicina                       0.16
 ## Enfermería                     0.13
@@ -927,12 +927,12 @@ plt.show()</code></pre>
 <pre class="python"><code>entrenamiento = &#39;entrenamiento&#39;
 etiqueta = &#39;Entrenamiento (formal y no formal) en bioética&#39;
 df[entrenamiento].value_counts(sort=False)</code></pre>
-<pre><code>## Sí    26
-## No    79
+<pre><code>## No    79
+## Sí    26
 ## Name: entrenamiento, dtype: int64</code></pre>
 <pre class="python"><code>df[entrenamiento].value_counts(sort=False, normalize=True).round(2)</code></pre>
-<pre><code>## Sí    0.25
-## No    0.75
+<pre><code>## No    0.75
+## Sí    0.25
 ## Name: entrenamiento, dtype: float64</code></pre>
 <pre class="python"><code>sns.countplot(x=entrenamiento, data=df, edgecolor=&#39;black&#39;)
 plt.xlabel(etiqueta)
