@@ -20,7 +20,7 @@ import scipy
 
 ```{python}
 # Datos
-df = pd.read_excel('Docentes/Docentes_Datos.xlsx', engine='openpyxl')
+df = pd.read_excel('docentes/Docentes_Datos.xlsx', engine='openpyxl')
 df.head()
 ```
 

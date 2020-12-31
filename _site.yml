@@ -17,8 +17,8 @@ navbar:
     - text: "Resultados"
       menu:
         - text: "Docentes"
-          href: Docentes.html
+          href: docentes.html
         - text: "Alumnos"
-          href: Programas.html
+          href: programas.html
     - text: "Recursos"
       href: recursos.html
