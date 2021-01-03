@@ -91,3 +91,8 @@ discusión
 conclusiones
 recomendaciones
 bibliografía
+análisis-de-datos
+datos-personales-y-laborales
+entrenamiento-no-formal
+entrenamiento-formal
+entrenamiento-formal-no-formal
