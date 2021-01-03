@@ -87,3 +87,7 @@ fortalezas
 oportunidades
 matriz-dafo
 estrategias-propuestas
+discusión
+conclusiones
+recomendaciones
+bibliografía
