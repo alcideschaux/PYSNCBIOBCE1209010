@@ -3,7 +3,7 @@ tab:formal
 tab:entrenamiento
 tab:cuadro4
 tab:cuadro5
-bioetica-profesional
+bioética-en-el-desempeño-profesional
 la-bioética-y-la-educación-médica
 la-bioética-y-el-profesionalismo-médico
 principios-fundamentales-del-profesionalismo
@@ -91,8 +91,3 @@ discusión
 conclusiones
 recomendaciones
 bibliografía
-análisis-de-datos
-datos-personales-y-laborales
-entrenamiento-no-formal
-entrenamiento-formal
-entrenamiento-formal-no-formal
